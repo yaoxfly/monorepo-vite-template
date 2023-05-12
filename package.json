@@ -1,0 +1,24 @@
+{
+  "name": "monorepo-vite-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "npx only-allow pnpm",
+    "lint": "eslint . --ext .vue,.js,.ts,.jsx,.tsx --fix",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "engines": {
+    "node": ">=16",
+    "pnpm": ">=8"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "dayjs": "^1.11.7",
+    "typescript": "^5.0.4",
+    "typescript-node": "^0.1.3"
+  }
+}
