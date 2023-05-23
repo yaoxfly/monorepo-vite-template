@@ -1,7 +1,7 @@
 {
-  "extends": "../node_modules/@monorepo/changesets/package.json",
+  "extends": "../node_modules/@monorepo/changesets/.changeset/config.json",
   "changelog": [
-    "@changesets/changelog-github",
+    "../node_modules/@monorepo/changesets/node_modules/@changesets/changelog-github",
     {
       "repo": "yaoxfly/monorepo-vite-template"
     }
