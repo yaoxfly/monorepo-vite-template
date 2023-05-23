@@ -1,5 +1,11 @@
 # @monorepo/changesets
 
+## 1.0.3
+
+### Patch Changes
+
+- 更新配置
+
 ## 1.0.2
 
 ### Patch Changes
