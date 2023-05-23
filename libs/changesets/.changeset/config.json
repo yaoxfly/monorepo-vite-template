@@ -1,6 +1,11 @@
 {
   "$schema": "https://unpkg.com/@changesets/config@2.3.0/schema.json",
-  "changelog": "@changesets/cli/changelog",
+  "changelog": [
+    "@changesets/changelog-github",
+    {
+      "repo": "yaoxfly/monorepo-vite-template"
+    }
+  ],
   "commit": false,
   "fixed": [],
   "linked": [],
