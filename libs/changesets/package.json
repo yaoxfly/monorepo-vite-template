@@ -1,6 +1,6 @@
 {
   "name": "@monorepo/changesets",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "",
   "main": "./node_modules/@changesets/cli/dist/cli.cjs.js",
   "module": "./node_modules/@changesets/cli/dist/cli.esm.js",
