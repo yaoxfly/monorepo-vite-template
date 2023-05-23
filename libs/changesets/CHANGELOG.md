@@ -1,5 +1,11 @@
 # @monorepo/changesets
 
+## 1.0.2
+
+### Patch Changes
+
+- 新增@changesets/changelog-github
+
 ## 1.0.1
 
 ### Major Changes
